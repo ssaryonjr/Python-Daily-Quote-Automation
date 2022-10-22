@@ -19,6 +19,14 @@ Wake up everyday on the positive note and let the first thing your mind see is s
 ## Lessons Learned
 - This was my first project I've built in Python and it was a lot of fun learning the syntax and finally having a chance to integrate Twilio into a project. I learnt a ton in a short amount of time building this project such as fetching data from a third-party api in python, using the `random` library,  integrating Twilio and setting up automated task. 
 
+## Installation: 
+1. Clone repository
+2. `pip install request, twilio, schedule`
+3. Create or link your Twilio account and fill in your `account_sid` and `auth_token`
+4. Add in your Twilio number and the targeted number you would like to have the message sent to.
+
+
+
 ## Future Optimizations:
 - Integrate a frontend for users to register their number into a database that will be used for allowing multi-user SMS. (Currently twilio's free account only lets you set up one number)
 

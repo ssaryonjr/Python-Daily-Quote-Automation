@@ -28,6 +28,7 @@ Wake up everyday on the positive note and let the first thing your mind see is s
 
 
 ## Future Optimizations:
+- Created a paid Twilio account
 - Integrate a frontend for users to register their number into a database that will be used for allowing multi-user SMS. (Currently twilio's free account only lets you set up one number)
 
 <h2 align="center">
